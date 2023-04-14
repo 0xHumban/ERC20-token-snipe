@@ -16,7 +16,7 @@ Configure the "config.py" with your data:
 Install dependencies
 
 ```sh
-pip install -r requierements.txt
+pip install -r requirements.txt
 ```
 
 Run `main.py`
